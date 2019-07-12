@@ -8,6 +8,7 @@ version = "0.2.11"
 alsa = { version = "0.2", optional = true }
 chrono = "0.4"
 daemonize = "0.3"
+dirs = "2.0"
 dbus = { version = "0.6", optional = true }
 dbus-tokio = { version = "0.2", optional = true }
 futures = "0.1"
@@ -15,6 +16,7 @@ getopts = "0.2"
 keyring = { version = "0.6.1", optional = true }
 libc = "0.2"
 log = "0.4.6"
+path-absolutize = "1.1"
 rspotify = "0.2.5"
 sha-1 = "0.8"
 hex = "0.3"
